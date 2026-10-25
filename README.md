@@ -6,7 +6,7 @@
 - [nori](https://github.com/raramos9/nori): turns a next.js app router repo into a map of its screens and the navigation between them, readable by coding agents over mcp
 
 ### stuff i use
-go, typescript, python
+python, typescript, go
 
 ### outside of code
 jiu-jitsu, wrestling, vintage clothes
