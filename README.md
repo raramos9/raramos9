@@ -1,16 +1,16 @@
-## Hi there 👋
+## hello, im andre
+## im currently interested in ai infra
 
-<!--
-**raramos9/raramos9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### what im building
+- [chimera](https://github.com/raramos9/chimera): a cloud computer that only exists while its working. claude code agents run in their own containers on it, then it deletes itself when idle
+- [nori](https://github.com/raramos9/nori): turns a next.js app router repo into a map of its screens and the navigation between them, readable by coding agents over mcp
 
-Here are some ideas to get you started:
+### stuff i use
+go, typescript, python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### outside of code
+jiu-jitsu, wrestling, vintage clothes
+
+### contact
+- [email me](mailto:ralphandrer04@gmail.com)
+- [lets connect](https://www.linkedin.com/in/andre-ramos-29bb4926b/)
